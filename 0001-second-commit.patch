@@ -1,0 +1,41 @@
+From f01c873626fe30ce36fc8122f396b77c805b43b4 Mon Sep 17 00:00:00 2001
+From: Kartik Gowda <yourmail@gmail.com>
+Date: Fri, 13 Feb 2026 11:38:15 +0530
+Subject: [PATCH] second commit
+
+---
+ Files_imp/one.txt | 1 +
+ Files_imp/two.txt | 1 +
+ three.txt         | 1 +
+ 3 files changed, 3 insertions(+)
+ create mode 100644 Files_imp/one.txt
+ create mode 100644 Files_imp/two.txt
+ create mode 100644 three.txt
+
+diff --git a/Files_imp/one.txt b/Files_imp/one.txt
+new file mode 100644
+index 0000000..43dd47e
+--- /dev/null
++++ b/Files_imp/one.txt
+@@ -0,0 +1 @@
++one
+\ No newline at end of file
+diff --git a/Files_imp/two.txt b/Files_imp/two.txt
+new file mode 100644
+index 0000000..64c5e58
+--- /dev/null
++++ b/Files_imp/two.txt
+@@ -0,0 +1 @@
++two
+\ No newline at end of file
+diff --git a/three.txt b/three.txt
+new file mode 100644
+index 0000000..1d19714
+--- /dev/null
++++ b/three.txt
+@@ -0,0 +1 @@
++three
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+
