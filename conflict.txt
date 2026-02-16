@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main change
-=======
-Dev change
->>>>>>> dev
+master change
